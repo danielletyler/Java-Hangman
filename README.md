@@ -1,5 +1,5 @@
 # Java-Hangman
 
-##Java program for CLI Hangman game
+## Java program for CLI Hangman game
 
-###By: Danielle Tyler
+### By: Danielle Tyler
